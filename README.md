@@ -65,7 +65,3 @@ blog-platform/
 * Post engagement with likes
 * Author profile management
 * Search and tag-based discovery
-
-## 📜 License
-
-MIT License
